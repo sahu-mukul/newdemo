@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: e5651969
+Build-Jdk: 11.0.11
+Implementation-Title: demolombook
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.lombook
+Implementation-URL: https://spring.io/projects/spring-boot/demolombook
+Created-By: Maven Integration for Eclipse
+
